@@ -3,22 +3,22 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Expériences en Thaïlande</title>  
+    <title>Experiences in Thailand</title>  
     <link rel="stylesheet" href="style.css">  
 </head>  
 <body>  
     <header>  
-        <h1>Expériences uniques en Thaïlande</h1>  
+        <h1>Unique Thai experiences</h1>  
         <nav>  
             <ul>  
-                <li><a href="index.html">Accueil</a></li>  
-                <li><a href="destinations.php">Expériences</a></li>  
+                <li><a href="index.html">Home</a></li>  
+                <li><a href="destinations.php">Experiences</a></li>  
             </ul>  
         </nav>  
     </header>  
 
     <section class="destinations">  
-        <h2>Découvrez des expériences inoubliables</h2>  
+        <h2>Enjoy unforgettable experiences</h2>  
 
         <!-- Jay Fai -->  
         <div class="destination">  
