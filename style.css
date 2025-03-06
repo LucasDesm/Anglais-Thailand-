@@ -8,10 +8,11 @@ body {
 }  
 
 header {  
-    background-color: #EF3340; /* Rouge du drapeau thaïlandais */  
+    background-color: #f05b65; /* Rouge du drapeau thaïlandais */  
     color: white;  
-    padding: 20px;  
-    text-align: center;  
+    padding: 1px ;  
+    text-align: center; 
+
 }  
 
 header h1 {  
@@ -38,20 +39,25 @@ nav ul li a {
 
 /* Hero Section */  
 .hero {  
-    background: url('images/thailand-hero.jpg') no-repeat center center/cover;  
-    height: 400px;  
+    background: url('image/photo garde.jpg') no-repeat center center/cover;  
+    height: 600px;  
     display: flex;  
     justify-content: center;  
-    align-items: center;  
+    align-items: flex-start; /* Déplace le contenu vers le haut */  
     text-align: center;  
-    color: white;  
+    color: rgb(255, 255, 255);  
+    padding-top: 20px; /* Ajoute un espace en haut */  
+}  
+
+.hero-content {  
+    background-color: rgba(0, 0, 0, 0); /* Fond semi-transparent */  
+    padding: 20px;  
+    border-radius: 10px;  
 }  
 
 .hero p {  
     font-size: 1.8em;  
-    background-color: rgba(0, 0, 0, 0.6);  
-    padding: 20px;  
-    border-radius: 10px;  
+    margin: 0;  
 }  
 
 .btn {  
@@ -68,26 +74,30 @@ nav ul li a {
 /* Highlights Section */  
 .highlights {  
     padding: 40px 20px;  
-    background-color: white;  
+    background-color: white;
+    margin-top: 0.5px;  
 }  
 
 .highlights h2 {  
     font-size: 2em;  
     margin-bottom: 30px;  
     color: #241D4F; /* Bleu du drapeau thaïlandais */  
-    text-align: center;  
+    text-align: center;
+     
+
 }  
 
 .highlight-container {  
     display: flex;  
     justify-content: space-between; /* Alignement horizontal */  
     max-width: 1200px;  
-    margin: 0 auto;  
+    margin: 0 auto;
+    gap: 20px; 
 }  
 
 .highlight-card {  
     width: 30%;  
-    background-color: #f9f9f9;  
+    background-color: #f05b6579;  
     padding: 20px;  
     border-radius: 10px;  
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
@@ -96,7 +106,7 @@ nav ul li a {
 
 .highlight-card img {  
     width: 100%;  
-    border-radius: 10px;  
+    border-radius: 15px;  
     margin-bottom: 15px;  
 }  
 
@@ -115,11 +125,11 @@ footer {
     background-color: #241D4F; /* Bleu du drapeau thaïlandais */  
     color: white;  
     text-align: center;  
-    padding: 10px;  
+    padding: 0.2px;  
     position: fixed;  
     bottom: 0;  
     width: 100%;  
-}
+}  
 .destinations {  
     padding: 20px;  
     max-width: 800px;  
