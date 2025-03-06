@@ -22,7 +22,7 @@
 
         <!-- Jay Fai -->  
         <div class="destination">  
-            <img src="images/jay-fai.jpg" alt="Jay Fai">  
+            <img src="image/jay fai.jpg" alt="Jay Fai">  
             <h3>Eat Michelin-Starred Street Food at Jay Fai (Bangkok) 🍳</h3>  
             <p><strong>Why it’s amazing:</strong> This legendary street food stall has earned a Michelin star for its famous crab omelet (Kai Jeow Poo), cooked over a fiery wok by the iconic chef in ski goggles.</p>  
             <p><strong>📍 Location:</strong> Bangkok, near Khao San Road.</p>  
@@ -32,7 +32,7 @@
 
         <!-- Bioluminescent Plankton -->  
         <div class="destination">  
-            <img src="images/maya-bay.jpg" alt="Maya Bay">  
+            <img src= "image/bioluminescent-plankton.webp" alt="Maya Bay">  
             <h3>Swim with Bioluminescent Plankton at Maya Bay (Ko Phi Phi) ✨🌊</h3>  
             <p><strong>Why it’s amazing:</strong> At night, the waters glow with neon blue plankton, creating a surreal experience as you swim in the dark.</p>  
             <p><strong>📍 Location:</strong> Maya Bay, Ko Phi Phi.</p>  
@@ -42,7 +42,7 @@
 
         <!-- Full Moon Party -->  
         <div class="destination">  
-            <img src="images/full-moon-party.jpg" alt="Full Moon Party">  
+            <img src= "image/full moon party.jpg" alt="Full Moon Party">  
             <h3>Experience the Full Moon Party (Ko Phangan) 🎶🌕</h3>  
             <p><strong>Why it’s amazing:</strong> One of the world’s most legendary beach parties, with neon body paint, fire dancers, and all-night music on the sand.</p>  
             <p><strong>📍 Location:</strong> Haad Rin Beach, Ko Phangan.</p>  
@@ -52,7 +52,7 @@
 
         <!-- White Temple -->  
         <div class="destination">  
-            <img src="images/white-temple.jpg" alt="White Temple">  
+            <img src="image/white temple.jpg" alt="White Temple">  
             <h3>Visit the White Temple (Wat Rong Khun) – A Surreal Art Temple (Chiang Rai) 🎨</h3>  
             <p><strong>Why it’s amazing:</strong> A completely white temple decorated with skulls, hands reaching from the ground, and pop culture references (Spiderman, Batman).</p>  
             <p><strong>📍 Location:</strong> Chiang Rai, Northern Thailand.</p>  
@@ -62,7 +62,7 @@
 
         <!-- Floating Pagodas -->  
         <div class="destination">  
-            <img src="images/floating-pagodas.jpg" alt="Floating Pagodas">  
+            <img src="image/floating pagodas.jpg" alt="Floating Pagodas">  
             <h3>Hike to the Floating Pagodas at Wat Chaloem Phra Kiat (Lampang) 🏯⛰️</h3>  
             <p><strong>Why it’s amazing:</strong> This hidden mountain temple features floating white pagodas on rocky peaks, offering unreal panoramic views.</p>  
             <p><strong>📍 Location:</strong> Lampang, Northern Thailand.</p>  
@@ -72,7 +72,7 @@
 
         <!-- Phang Nga Kayaking -->  
         <div class="destination">  
-            <img src="images/phang-nga-kayaking.jpg" alt="Phang Nga Kayaking">  
+            <img src="image/phang nga.png" alt="Phang Nga Kayaking">  
             <h3>Kayak Through Hidden Caves in Phang Nga Bay 🛶</h3>  
             <p><strong>Why it’s amazing:</strong> Explore limestone caves and secret lagoons only accessible by kayak, surrounded by towering cliffs.</p>  
             <p><strong>📍 Location:</strong> Phang Nga Bay, near Phuket.</p>  
@@ -82,7 +82,7 @@
 
         <!-- Erawan Waterfalls -->  
         <div class="destination">  
-            <img src="images/erawan-waterfalls.jpg" alt="Erawan Waterfalls">  
+            <img src="image/erawan-waterfall.jpg" alt="Erawan Waterfalls">  
             <h3>Discover the Erawan Waterfalls – 7 Levels of Blue Pools (Kanchanaburi) 💦</h3>  
             <p><strong>Why it’s amazing:</strong> A seven-tiered waterfall with emerald blue pools where you can swim with tiny fish in the jungle.</p>  
             <p><strong>📍 Location:</strong> Erawan National Park, Kanchanaburi (3h from Bangkok).</p>  
@@ -92,7 +92,7 @@
 
         <!-- Floating Bungalows -->  
         <div class="destination">  
-            <img src="images/floating-bungalows.jpg" alt="Floating Bungalows">  
+            <img src="image/floating bungalows.jpg" alt="Floating Bungalows">  
             <h3>Stay in a Floating Jungle Bungalow at Khao Sok National Park 🏕️🌿</h3>  
             <p><strong>Why it’s amazing:</strong> Sleep in a floating bamboo bungalow on a turquoise lake, surrounded by limestone cliffs and jungle sounds.</p>  
             <p><strong>📍 Location:</strong> Cheow Lan Lake, Khao Sok National Park.</p>  
@@ -102,7 +102,7 @@
 
         <!-- Muay Thai Fight -->  
         <div class="destination">  
-            <img src="images/muay-thai.jpg" alt="Muay Thai Fight">  
+            <img src="image/muay thai.jpg" alt="Muay Thai Fight">  
             <h3>Watch a Muay Thai Fight in Lumpinee Stadium (Bangkok) 🥊</h3>  
             <p><strong>Why it’s amazing:</strong> Experience Thailand’s national sport with intense fights, roaring crowds, and real warrior energy.</p>  
             <p><strong>📍 Location:</strong> Lumpinee Stadium, Bangkok.</p>  
@@ -112,7 +112,7 @@
 
         <!-- Ghost Tower -->  
         <div class="destination">  
-            <img src="images/ghost-tower.jpg" alt="Ghost Tower">  
+            <img src="image/ghost tower.jpg" alt="Ghost Tower">  
             <h3>Explore Thailand’s Abandoned "Ghost Tower" (Bangkok) 👻🏙️</h3>  
             <p><strong>Why it’s amazing:</strong> The Sathorn Unique Tower is an abandoned skyscraper with an eerie atmosphere and insane views of Bangkok from the top.</p>  
             <p><strong>📍 Location:</strong> Bangkok.</p>  
@@ -122,7 +122,7 @@
 
         <!-- Whale Sharks -->  
         <div class="destination">  
-            <img src="images/whale-sharks.jpg" alt="Whale Sharks">  
+            <img src="image/whaleshark.jpg" alt="Whale Sharks">  
             <h3>Dive with Whale Sharks at Richelieu Rock (Similan Islands) 🦈🌊</h3>  
             <p><strong>Why it’s amazing:</strong> One of the best dive spots in the world, where you can swim alongside gentle giant whale sharks and vibrant coral reefs.</p>  
             <p><strong>📍 Location:</strong> Richelieu Rock, Similan Islands (near Khao Lak).</p>  
@@ -132,7 +132,7 @@
 
         <!-- Death Railway -->  
         <div class="destination">  
-            <img src="images/death-railway.jpg" alt="Death Railway">  
+            <img src="image/death railway.png" alt="Death Railway">  
             <h3>Visit the Death Railway and Hellfire Pass (Kanchanaburi) 🚂</h3>  
             <p><strong>Why it’s amazing:</strong> A historic railway built during WWII by prisoners of war, surrounded by stunning jungle landscapes and a haunting past.</p>  
             <p><strong>📍 Location:</strong> Kanchanaburi (3h from Bangkok).</p>  
@@ -142,7 +142,7 @@
 
         <!-- Hot Air Balloon -->  
         <div class="destination">  
-            <img src="images/hot-air-balloon.jpg" alt="Hot Air Balloon">  
+            <img src="image/hot air ballons.jpg" alt="Hot Air Balloon">  
             <h3>Ride a Hot Air Balloon Over Chiang Mai at Sunrise 🎈</h3>  
             <p><strong>Why it’s amazing:</strong> Float above rice fields and ancient temples as the sun rises over Chiang Mai.</p>  
             <p><strong>📍 Location:</strong> Chiang Mai.</p>  
@@ -152,7 +152,7 @@
     </section>  
 
     <footer>  
-        <p>&copy; 2023 Thailand Tourism. Tous droits réservés.</p>  
+        <p>&copy; 2025 Thailand Tourism. All rights reserved by Tristant,Anthonin et Lucas.</p>  
     </footer>  
 </body>  
 </html>
